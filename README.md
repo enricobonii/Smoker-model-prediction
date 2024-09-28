@@ -1,2 +1,2 @@
-# Smoker-model-prediction
-Machine Learning Final Project
+# Machine Learning Final Project
+
